@@ -8,3 +8,5 @@ python3 manage.py createsuperuser
 
 pip3 install django-allauth
 pip3 freeze > requirements.txt
+
+cp -r ../.pip-modules/lib/python3.8/site-packages/allauth/templates/* ./templates/allauth
