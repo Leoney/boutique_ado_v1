@@ -37,3 +37,5 @@ for item in clothes:
 
 Product.objects.filter(has_sizes=True)
 Product.objects.filter(has_sizes=True).count()
+
+checkout views -> stripe_public_key 
