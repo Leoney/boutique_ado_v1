@@ -37,3 +37,6 @@ for item in clothes:
 
 Product.objects.filter(has_sizes=True)
 Product.objects.filter(has_sizes=True).count()
+
+export STRIPE_PUBLIC_KEY=
+export STRIPE_SECRET_KEY=
