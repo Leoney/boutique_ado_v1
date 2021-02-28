@@ -42,3 +42,5 @@ checkout views -> stripe_public_key
 pip3 install stripe 
 export STRIPE_PUBLIC_KEY=
 export STRIPE_SECRET_KEY=
+
+new-branch
