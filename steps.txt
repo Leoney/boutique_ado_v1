@@ -44,3 +44,5 @@ export STRIPE_PUBLIC_KEY=
 export STRIPE_SECRET_KEY=
 
 new-branch
+
+export STRIPE_WH_SECRET=
